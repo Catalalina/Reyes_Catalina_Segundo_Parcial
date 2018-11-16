@@ -6,6 +6,10 @@ section {
   font-family: 'Roboto', sans-serif;
 }
 
+h1 {
+  font-size: 200px;
+}
+
 .button__cont {
   display: -webkit-box;
   display: -ms-flexbox;
